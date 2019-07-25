@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+.foodLi {
+    color: green;
+}
+body {
+    background-color: floralwhite;
+}
+table {
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 1px solid black;
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+table.tablecenter {
+    margin-left:auto;
+    margin-right:auto;
+}
+img.imagecenter {
+    float: left;
+    width: 20%;
+
+}
+

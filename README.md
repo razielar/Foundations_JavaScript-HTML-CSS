@@ -1,4 +1,4 @@
-# Foundations JavaScript HTML CSS
+# Foundations with JavaScript, HTML and CSS
 
 This repository contains the learning material of the *coursera* course: [Programming Foundations with JavaScript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web/home/welcome)
 
